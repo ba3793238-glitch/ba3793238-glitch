@@ -1,0 +1,8 @@
+{
+  "name": "Remix: حياتك أفضل مع القرآن",
+  "description": "تطبيق إسلامي متكامل يضم القرآن الكريم كاملاً، مواقيت الصلاة، الأذكار، وسبحة إلكترونية مع خاصية تسجيل الدخول بجوجل.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
